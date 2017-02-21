@@ -1,4 +1,4 @@
 # pilas_colas
 
-#Alejandro Suárez
-#Andrea Barragán 
+#Alejandro Suárez 20121020030
+#Andrea Barragán  20121020081
